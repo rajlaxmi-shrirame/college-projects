@@ -1,0 +1,95 @@
+.tab
+{
+    margin: 10%;
+}
+.tr1
+{
+    border: 10px;
+    border-color: black;
+}
+td
+{
+    font-size: 20px;
+}
+h1
+{
+    color: #59dede;
+    padding: 5mm;
+    margin: 5mm;
+    background-color: #216b78;
+
+}
+body
+{
+    color: aqua;
+    background-color: #56a2b3;
+    background-image: url(https://img.freepik.com/free-vector/rupee-symbol-digital-technology-background_1017-36810.jpg?w=1060&t=st=1681877627~exp=1681878227~hmac=62410247d3c7cd3cad6d94d089476b8ca06c3dabbaaa01402cd7c0ee974a27c8);
+    background-repeat: no-repeat;
+  background-size: 100%;
+}
+input
+{
+    height: 35px;
+    size: 20px;
+}
+.My_date
+{
+    height: 1cm; width: 4.5cm; border-radius: 0.4cm;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #d563e6, #9e49d7);
+    background-image: -moz-linear-gradient(top, #d563e6, #9e49d7);
+    background-image: -ms-linear-gradient(top, #d563e6, #9e49d7);
+    background-image: -o-linear-gradient(top, #d563e6, #9e49d7);
+    background-image: linear-gradient(to bottom, #d563e6, #9e49d7);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Courier New;
+    color: #b3d4e0;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.btn:hover
+{
+    background: #139df2;
+    background-image: -webkit-linear-gradient(top, #d563e6, #9e49d7);
+    background-image: -moz-linear-gradient(top, #d563e6, #9e49d7);
+    background-image: -ms-linear-gradient(top, #d563e6, #9e49d7);
+    background-image: -o-linear-gradient(top, #d563e6, #9e49d7);
+    background-image: linear-gradient(to bottom, #d563e6, #9e49d7);
+    text-decoration: none;
+}
+select
+{
+    align-items: center;
+}
+.inr
+{
+    align-items: center;
+}
+.usd
+{
+    align-items: center;
+}
+.exchange
+{
+    text-align: center;
+}
+/* .graph
+{
+    height: 10cm;
+    background-color: #1c3445;
+    width: 50%;
+    align-self: center;
+    margin-left: 25%;
+    opacity: 70%;
+} */
+table
+{
+    column-width: 7cm;
+    margin-left: 60%;
+}
